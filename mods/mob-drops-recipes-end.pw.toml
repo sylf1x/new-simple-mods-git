@@ -1,0 +1,13 @@
+name = "Mob Drops Recipes [End]"
+filename = "mob_drops_recipes_end-merged-1.21.1-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7901fc0821536090323bbd07d50ae0a75b7d99ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5639088
+project-id = 968685

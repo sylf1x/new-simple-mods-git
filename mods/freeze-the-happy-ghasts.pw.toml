@@ -1,0 +1,13 @@
+name = "Freeze the Happy Ghasts"
+filename = "FHG-NeoForge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d323215f0011fce28f5efbbadcba27a5ae906b5a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7174247
+project-id = 1308047

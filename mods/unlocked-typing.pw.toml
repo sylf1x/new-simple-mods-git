@@ -1,0 +1,13 @@
+name = "Unlocked Typing"
+filename = "unlocked_typing-neoforge-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24a41b17a0936e5234b1047febae6b8beb7c344e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8354912
+project-id = 1373339

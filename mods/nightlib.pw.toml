@@ -1,0 +1,13 @@
+name = "NightLib"
+filename = "NightLib-Neoforge-1.21.1-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e991d4c9301f23c7e26305fbcafa7199bd646629"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8940259
+project-id = 1704376

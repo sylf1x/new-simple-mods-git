@@ -1,0 +1,13 @@
+name = "Loading Backgrounds - Oceans"
+filename = "loadingbackgrounds_oceans-1.21.X-3.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ab5a1473b4c404b7daab58d2b42ec4daf323b86"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7228353
+project-id = 888328

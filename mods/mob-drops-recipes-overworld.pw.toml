@@ -1,0 +1,13 @@
+name = "Mob Drops Recipes [Overworld]"
+filename = "mob_drops_recipes_overworld-merged-1.21.1-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03a1f7475d4ca2a18fd5b2a5ad728d89ea6c3842"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5639064
+project-id = 967869

@@ -1,0 +1,13 @@
+name = "Better Crossbows"
+filename = "Better-Crossbows-Neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "56e09b4633f76cb0e71fcf15986d7bb3cef329f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7321844
+project-id = 1402632

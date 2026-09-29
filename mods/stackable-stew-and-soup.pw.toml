@@ -1,0 +1,13 @@
+name = "Stackable Stew and Soup"
+filename = "stackable_stew_and_soup-neoforge-1.21.1-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9c38e51277625a1e66d03f6dceaf06e4485fb36a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8429872
+project-id = 886735

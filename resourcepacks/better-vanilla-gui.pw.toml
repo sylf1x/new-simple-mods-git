@@ -1,0 +1,13 @@
+name = "Better GUI - Workbench, Villagers..."
+filename = "Better Vanilla GUI (Without OptiGUI) - MC 1.21.1 - 4.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7a630885f5027afb40de164effb4335811b6cf75"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8357675
+project-id = 1386611

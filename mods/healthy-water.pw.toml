@@ -1,0 +1,13 @@
+name = "Healthy Water"
+filename = "healthy_water-merged-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af31301d3de5bd93d1861053f54975bd3f47e4fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5980648
+project-id = 921753
